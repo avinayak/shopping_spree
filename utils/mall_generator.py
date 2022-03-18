@@ -11,7 +11,7 @@ This script generates a random mall with 4 configrable parameters:
 - max price of a product
 """
 
-N_SHOPS = 11
+N_SHOPS = 6
 MIN_DEGREE = 2
 MAX_TIME = 100
 MAX_PRICE = 100

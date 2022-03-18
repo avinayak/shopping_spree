@@ -11,7 +11,7 @@ from joblib import Parallel, delayed
 
 
 data = []
-with open("data/tiny_mall.json") as f:
+with open("data/mall_test.json") as f:
     data = json.load(f)
 
 n_shops = len(data)
