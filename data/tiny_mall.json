@@ -1,0 +1,217 @@
+[
+  {
+    "storeID": 0,
+    "inventory": [
+      { "itemID": "687e1e07-53b6-4cee-8365-673cd653a71a", "price": 16.57 },
+      { "itemID": "f69a1159-1300-4376-bd68-c2a88e267e6f", "price": 57.66 },
+      { "itemID": "2f253e86-b58f-4d19-9d8c-74edc54a5a56", "price": 39.66 },
+      { "itemID": "35194d07-aa3e-4780-83cc-d342824e0f39", "price": 64.37 },
+      { "itemID": "eb41c27f-1ec4-42d8-aa47-67736c326a34", "price": 25.49 },
+      { "itemID": "caef51c8-d32b-4b63-8cae-74ec64b59198", "price": 13.37 },
+      { "itemID": "6f87f28c-c3a2-4fed-a0e6-a2ed8c75b6d5", "price": 73.52 },
+      { "itemID": "b69fdac6-d833-4980-85dd-097de20b0535", "price": 61.61 },
+      { "itemID": "a5afcf4b-3b65-4a4e-be93-31cbd24e9ddc", "price": 78.27 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 2, "timeToGetToStore": 23.56 },
+      { "storeID": 3, "timeToGetToStore": 82.91 },
+      { "storeID": 6, "timeToGetToStore": 46.61 },
+      { "storeID": 1, "timeToGetToStore": 16.32 },
+      { "storeID": 9, "timeToGetToStore": 50.01 },
+      { "storeID": 7, "timeToGetToStore": 27.1 },
+      { "storeID": 5, "timeToGetToStore": 98.44 },
+      { "storeID": 10, "timeToGetToStore": 83.71 },
+      { "storeID": 4, "timeToGetToStore": 45.17 }
+    ]
+  },
+  {
+    "storeID": 1,
+    "inventory": [
+      { "itemID": "533d3daf-56ec-4df3-a83d-4db602f74c23", "price": 73.78 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 9, "timeToGetToStore": 2.21 },
+      { "storeID": 10, "timeToGetToStore": 56.43 },
+      { "storeID": 5, "timeToGetToStore": 44.27 },
+      { "storeID": 2, "timeToGetToStore": 48.75 },
+      { "storeID": 4, "timeToGetToStore": 53.53 },
+      { "storeID": 7, "timeToGetToStore": 2.26 },
+      { "storeID": 6, "timeToGetToStore": 71.69 },
+      { "storeID": 3, "timeToGetToStore": 56.95 },
+      { "storeID": 8, "timeToGetToStore": 38.75 }
+    ]
+  },
+  {
+    "storeID": 2,
+    "inventory": [
+      { "itemID": "c807d61a-7289-49a6-8aee-870c0595c034", "price": 6.71 },
+      { "itemID": "84f33b48-fdfb-4730-825f-bd371ae8e0ba", "price": 93.68 },
+      { "itemID": "5ab8edd9-7832-423a-87df-f064bee91f1d", "price": 39.92 },
+      { "itemID": "b9373476-c438-4ccf-97e5-e284a915cd06", "price": 99.22 },
+      { "itemID": "41aec3fb-aa33-4649-ade4-735b4a304f67", "price": 87.88 },
+      { "itemID": "ac9bb873-9fe9-4f3a-9517-117a09ee14d0", "price": 40.81 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 0, "timeToGetToStore": 18.61 },
+      { "storeID": 4, "timeToGetToStore": 78.38 },
+      { "storeID": 5, "timeToGetToStore": 4.84 },
+      { "storeID": 9, "timeToGetToStore": 71.09 }
+    ]
+  },
+  {
+    "storeID": 3,
+    "inventory": [
+      { "itemID": "a1375a77-9eb1-4cac-b948-9f1bd686f95c", "price": 2.03 },
+      { "itemID": "e7273036-c2bb-49e9-9a0d-a194a520b5a2", "price": 21.43 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 1, "timeToGetToStore": 5.14 },
+      { "storeID": 8, "timeToGetToStore": 30.43 },
+      { "storeID": 2, "timeToGetToStore": 78.53 },
+      { "storeID": 7, "timeToGetToStore": 58.06 },
+      { "storeID": 5, "timeToGetToStore": 1.74 },
+      { "storeID": 10, "timeToGetToStore": 9.15 },
+      { "storeID": 9, "timeToGetToStore": 1.6 },
+      { "storeID": 0, "timeToGetToStore": 43.29 },
+      { "storeID": 4, "timeToGetToStore": 1.52 }
+    ]
+  },
+  {
+    "storeID": 4,
+    "inventory": [
+      { "itemID": "ae70cef1-840a-4433-99fa-12a2214956ae", "price": 62.46 },
+      { "itemID": "36d246b6-d44f-407b-98cb-0788e2cdbe1d", "price": 85.84 },
+      { "itemID": "5f0aa75b-5464-453e-81f3-f761a1398c86", "price": 93.28 },
+      { "itemID": "dbe58f0d-1980-40d3-9790-0fae3ba7df23", "price": 16.93 },
+      { "itemID": "baf7d3d7-ff41-4c81-937e-a7b2309687d8", "price": 76.36 },
+      { "itemID": "06eda743-3ced-4e8e-8fc7-b65760668f74", "price": 10.28 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 10, "timeToGetToStore": 58.1 },
+      { "storeID": 5, "timeToGetToStore": 68.12 },
+      { "storeID": 9, "timeToGetToStore": 18.87 },
+      { "storeID": 3, "timeToGetToStore": 49.14 },
+      { "storeID": 1, "timeToGetToStore": 57.69 },
+      { "storeID": 6, "timeToGetToStore": 26.05 }
+    ]
+  },
+  {
+    "storeID": 5,
+    "inventory": [
+      { "itemID": "c0542689-66a5-4529-a2d6-09982e3a6b1e", "price": 91.78 },
+      { "itemID": "d50adc42-85fc-4ad2-b46c-31b0dd30fb25", "price": 28.2 },
+      { "itemID": "e24dc52a-c2a6-4991-a4dd-eecbed66dcdf", "price": 6.22 },
+      { "itemID": "19171cd4-12a5-423b-b86f-2841b6db8472", "price": 12.63 },
+      { "itemID": "b9c9ed9c-01ce-47a8-8c1c-38977a1485ab", "price": 99.21 },
+      { "itemID": "42bdece3-5b66-436b-a063-f8b7e5716164", "price": 18.97 },
+      { "itemID": "653d8d73-facf-4675-981c-82ed549f505c", "price": 28.89 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 2, "timeToGetToStore": 88.03 },
+      { "storeID": 6, "timeToGetToStore": 37.87 },
+      { "storeID": 7, "timeToGetToStore": 70.81 },
+      { "storeID": 8, "timeToGetToStore": 87.97 },
+      { "storeID": 4, "timeToGetToStore": 90.69 },
+      { "storeID": 3, "timeToGetToStore": 24.7 },
+      { "storeID": 0, "timeToGetToStore": 40.21 },
+      { "storeID": 10, "timeToGetToStore": 89.81 },
+      { "storeID": 9, "timeToGetToStore": 40.89 },
+      { "storeID": 1, "timeToGetToStore": 15.91 }
+    ]
+  },
+  {
+    "storeID": 6,
+    "inventory": [
+      { "itemID": "69df054f-94fa-490f-8675-24b99191784e", "price": 94.87 },
+      { "itemID": "ffd8265f-c85f-4feb-8a28-c35e080015d3", "price": 48.7 },
+      { "itemID": "cfd34915-4da7-498d-b3b1-a7fc4c621707", "price": 71.57 },
+      { "itemID": "c7f4f035-74f3-44a5-972a-4660f71eae35", "price": 83.78 },
+      { "itemID": "20b77686-12f7-429d-9e17-2d2312e98c15", "price": 52.5 },
+      { "itemID": "b70db1ec-66a9-4955-907b-88db2e15e317", "price": 64.9 },
+      { "itemID": "96810658-ed97-4f00-83e0-4321accde33d", "price": 16.63 },
+      { "itemID": "98f78b30-507e-4205-bf71-9a6e6cd8e091", "price": 57.49 },
+      { "itemID": "19e697f3-0bb2-401e-8faf-d10ca09f0458", "price": 5.92 },
+      { "itemID": "225f89b3-f6da-49b7-b8c7-67a99377d9bc", "price": 0.86 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 8, "timeToGetToStore": 20.77 },
+      { "storeID": 1, "timeToGetToStore": 40.96 },
+      { "storeID": 0, "timeToGetToStore": 27.7 },
+      { "storeID": 5, "timeToGetToStore": 24.19 },
+      { "storeID": 3, "timeToGetToStore": 50.16 },
+      { "storeID": 2, "timeToGetToStore": 49.32 },
+      { "storeID": 9, "timeToGetToStore": 95.19 },
+      { "storeID": 4, "timeToGetToStore": 21.68 }
+    ]
+  },
+  {
+    "storeID": 7,
+    "inventory": [
+      { "itemID": "a4e1ce0d-74f2-4a38-b187-91e95970cd41", "price": 95.87 },
+      { "itemID": "9a65880c-2892-4511-bcb6-fc959d41f507", "price": 35.55 },
+      { "itemID": "49f39639-a9c5-42a7-944d-a981210419cd", "price": 34.77 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 2, "timeToGetToStore": 64.29 },
+      { "storeID": 0, "timeToGetToStore": 56.66 },
+      { "storeID": 6, "timeToGetToStore": 39.74 }
+    ]
+  },
+  {
+    "storeID": 8,
+    "inventory": [
+      { "itemID": "c6456417-ab0c-4a12-87c0-0a6b40f90ff9", "price": 4.58 },
+      { "itemID": "1cf8e950-5738-4c9a-bc47-ba5f05597245", "price": 18.88 },
+      { "itemID": "6d9c4a68-a135-4ba4-9724-008a318510ec", "price": 68.58 },
+      { "itemID": "0233421b-ee47-431d-bde3-ed15381c7272", "price": 35.81 },
+      { "itemID": "7b6c915d-2e27-46d6-a3d6-190d03406a31", "price": 27.18 },
+      { "itemID": "4e58deda-6f50-45f4-ba54-9f1933d729c8", "price": 66.13 },
+      { "itemID": "e59186f4-9e18-4b59-a357-2ea79fb68eb6", "price": 6.42 },
+      { "itemID": "0ea290e8-3cb6-436d-ad50-d059391a13b4", "price": 87.21 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 5, "timeToGetToStore": 21.53 },
+      { "storeID": 2, "timeToGetToStore": 13.97 },
+      { "storeID": 4, "timeToGetToStore": 38.85 },
+      { "storeID": 9, "timeToGetToStore": 91.16 },
+      { "storeID": 7, "timeToGetToStore": 16.56 },
+      { "storeID": 3, "timeToGetToStore": 90.77 },
+      { "storeID": 0, "timeToGetToStore": 24.2 }
+    ]
+  },
+  {
+    "storeID": 9,
+    "inventory": [
+      { "itemID": "727e8389-212f-4c36-bd83-fec33fc76f10", "price": 54.12 },
+      { "itemID": "f32ab3fe-ef6c-4da5-b6cb-89b0e09ba065", "price": 65.11 },
+      { "itemID": "13963c8d-2e65-4a13-89fd-7eefed6ddf92", "price": 81.75 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 10, "timeToGetToStore": 7.58 },
+      { "storeID": 1, "timeToGetToStore": 88.44 },
+      { "storeID": 8, "timeToGetToStore": 69.23 },
+      { "storeID": 6, "timeToGetToStore": 48.05 },
+      { "storeID": 3, "timeToGetToStore": 63.08 },
+      { "storeID": 7, "timeToGetToStore": 4.86 },
+      { "storeID": 0, "timeToGetToStore": 25.3 },
+      { "storeID": 5, "timeToGetToStore": 99.59 },
+      { "storeID": 2, "timeToGetToStore": 57.5 }
+    ]
+  },
+  {
+    "storeID": 10,
+    "inventory": [
+      { "itemID": "260077a0-0ef3-45e0-a744-515a0b7980f3", "price": 82.1 },
+      { "itemID": "8d397ba8-2d62-4bab-a555-9e2fa575154a", "price": 99.3 }
+    ],
+    "inStoreAdvertisements": [
+      { "storeID": 7, "timeToGetToStore": 53.0 },
+      { "storeID": 2, "timeToGetToStore": 71.43 },
+      { "storeID": 4, "timeToGetToStore": 86.38 },
+      { "storeID": 8, "timeToGetToStore": 41.96 },
+      { "storeID": 1, "timeToGetToStore": 68.04 },
+      { "storeID": 9, "timeToGetToStore": 19.63 },
+      { "storeID": 0, "timeToGetToStore": 26.8 }
+    ]
+  }
+]
